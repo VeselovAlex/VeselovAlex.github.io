@@ -1,1 +1,1 @@
-# Saple GITHUB pages
+# Sample GITHUB pages
